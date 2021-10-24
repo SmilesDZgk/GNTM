@@ -63,7 +63,7 @@ If you find our methods or code helpful, please kindly cite the paper:
 ```angular2
 @inproceedings{shen2021topic,
   title={Topic Modeling Revisited: A Document Graph-based Neural Network Perspective},
-  author={Shen, Dazhong and Qin, Chuian and Wang, Chao and Dong, Zheng and Zhu, Hengshu and Xiong, Hui},
+  author={Shen, Dazhong and Qin, Chuan and Wang, Chao and Dong, Zheng and Zhu, Hengshu and Xiong, Hui},
   booktitle={Proceedings of Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS-2021)},
   year={2021}
 }
